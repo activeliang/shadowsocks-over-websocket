@@ -4,7 +4,7 @@
   "description": "A fast tunnel proxy that helps you bypass firewalls",
   "engines": {
     "node": "12.13.0"
-  }
+  },
   "main": "tcprelay.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
